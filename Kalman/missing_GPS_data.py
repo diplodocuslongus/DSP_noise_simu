@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from numpy import ma
 
-# enable or disable missing observations
+# enable (1) or disable missing observations
 use_mask = 1
 
 # reading data (quick and dirty)
